@@ -69,20 +69,11 @@
     <Content Include="Content\Images\user-splash-screen.png" />
     <Content Include="Content\Web.config" />
     <Content Include="packages.config" />
-    <Content Include="Screens\代理\Browse代理.lsml.js">
-      <DependentUpon>Browse代理.lsml</DependentUpon>
-    </Content>
     <Content Include="Screens\代理\View代理Item.lsml.js">
       <DependentUpon>View代理Item.lsml</DependentUpon>
     </Content>
-    <Content Include="Screens\產品\Browse產品.lsml.js">
-      <DependentUpon>Browse產品.lsml</DependentUpon>
-    </Content>
     <Content Include="Screens\產品\View產品選擇Item.lsml.js">
       <DependentUpon>View產品選擇Item.lsml</DependentUpon>
-    </Content>
-    <Content Include="Screens\訂單\Browse訂單.lsml.js">
-      <DependentUpon>Browse訂單.lsml</DependentUpon>
     </Content>
     <Content Include="Screens\訂單\View訂單Item.lsml.js">
       <DependentUpon>View訂單Item.lsml</DependentUpon>
