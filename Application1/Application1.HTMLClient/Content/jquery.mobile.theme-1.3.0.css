@@ -72,7 +72,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .ui-bar-a a.ui-link:visited {
-    color: #2489ce /*{a-bar-link-visited}*/;
+	color: #2489ce /*{a-bar-link-visited}*/;
 }
 
 .ui-bar-a a.ui-link:hover {
@@ -118,7 +118,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .ui-body-a .ui-link:visited {
-    color: #2489ce /*{a-body-link-visited}*/;
+	color: #2489ce /*{a-body-link-visited}*/;
 }
 
 .ui-body-a .ui-link:hover {
@@ -222,7 +222,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .ui-bar-b a.ui-link:visited {
-    color: #ddf0f8 /*{b-bar-link-visited}*/;
+	color: #ddf0f8 /*{b-bar-link-visited}*/;
 }
 
 .ui-bar-b a.ui-link:hover {
@@ -268,7 +268,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .ui-body-b .ui-link:visited {
-    color: #2489ce /*{b-body-link-visited}*/;
+	color: #2489ce /*{b-body-link-visited}*/;
 }
 
 .ui-body-b .ui-link:hover {
@@ -366,7 +366,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .ui-bar-c a.ui-link:visited {
-    color: #2489ce /*{c-bar-link-visited}*/;
+	color: #2489ce /*{c-bar-link-visited}*/;
 }
 
 .ui-bar-c a.ui-link:hover {
@@ -418,7 +418,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .ui-body-c .ui-link:visited {
-    color: #2489ce /*{c-body-link-visited}*/;
+	color: #2489ce /*{c-body-link-visited}*/;
 }
 
 .ui-body-c .ui-link:hover {
@@ -523,7 +523,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .ui-bar-d a.ui-link:visited {
-    color: #2489ce /*{d-bar-link-visited}*/;
+	color: #2489ce /*{d-bar-link-visited}*/;
 }
 
 .ui-bar-d a.ui-link:hover {
@@ -568,7 +568,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .ui-body-d .ui-link:visited {
-    color: #2489ce /*{d-body-link-visited}*/;
+	color: #2489ce /*{d-body-link-visited}*/;
 }
 
 .ui-body-d .ui-link:hover {
@@ -674,7 +674,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .ui-bar-e a.ui-link:visited {
-    color: #2489ce /*{e-bar-link-visited}*/;
+	color: #2489ce /*{e-bar-link-visited}*/;
 }
 
 .ui-bar-e a.ui-link:hover {
@@ -719,7 +719,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .ui-body-e .ui-link:visited {
-    color: #2489ce /*{e-body-link-visited}*/;
+	color: #2489ce /*{e-body-link-visited}*/;
 }
 
 .ui-body-e .ui-link:hover {
@@ -986,8 +986,8 @@ a.ui-link-inherit {
 -----------------------------------------------------------------------------------------------------------*/
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.3),
-       only screen and (min--moz-device-pixel-ratio: 1.3),
-       only screen and (min-resolution: 200dpi) {
+	   only screen and (min--moz-device-pixel-ratio: 1.3),
+	   only screen and (min-resolution: 200dpi) {
 	
 	.ui-icon-plus, .ui-icon-minus, .ui-icon-delete, .ui-icon-arrow-r,
 	.ui-icon-arrow-l, .ui-icon-arrow-u, .ui-icon-arrow-d, .ui-icon-check,
